@@ -40,4 +40,4 @@ The goal of this project is to develop a hybrid recommendation system that utili
 
 ## **Acknowledgments**
 
-We would like to thank our instructor, **Dr. Paul Dooley**, and the **City University of Seattle** for providing the resources and guidance needed to complete this project.
+We would like to thank our instructor, **Dr. Paul Dooley**, and **City University of Seattle** for providing the resources and guidance needed to complete this project.
