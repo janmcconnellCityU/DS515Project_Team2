@@ -1,0 +1,5 @@
+packageDescription("dplyr")
+packageDescription("ggplot2")
+packageDescription("readr")
+packageDescription("cluster")
+packageDescription("factoextra")
