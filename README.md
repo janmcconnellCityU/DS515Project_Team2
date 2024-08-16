@@ -18,7 +18,7 @@ The goal of this project is to develop a hybrid recommendation system that utili
 
 **1. Data Loading and Inspection:**
 - Loaded datasets (articles_cleaned.csv and transactions_cleaned.csv) using the readr package.
- Inspected and filtered the data to focus on the "Garment Upper Body" product group.
+- Inspected and filtered the data to focus on the "Garment Upper Body" product group.
 
 **2. Univariate Analysis:**
 - Created various univariate plots to explore the distribution of different variables within the "Garment Upper Body" product group.
