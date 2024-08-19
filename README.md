@@ -5,14 +5,13 @@ This project is developed as part of the **DS515_01_ON: Data Science Overview** 
 
 ## **Team Members**
 
-- **Jan McConnell** - [janmcconnell@cityuniversity.edu](mailto:janmcconnell@cityuniversity.edu)
-- **Miray Rosalia** - [mirayrosalia@cityuniversity.edu](mailto:mirayrosalia@cityuniversity.edu)
 - **Humaira Khan** - [khanhumairaakram@cityuniversity.edu](mailto:khanhumairaakram@cityuniversity.edu)
-- **Johnathan Roberts** - [robertsjohnathan@cityuniversity.edu](mailto:robertsjohnathan@cityuniversity.edu)
+- **Jan McConnell** - [janmcconnell@cityuniversity.edu](mailto:janmcconnell@cityuniversity.edu)
+- **Rosalia Miray** - [mirayrosalia@cityuniversity.edu](mailto:mirayrosalia@cityuniversity.edu)
 
 ## **Project Description**
 
-The goal of this project is to develop a hybrid recommendation system that utilizes collaborative filtering and segmentation techniques using R programming to target improvements in the recommendation system for new customers. We will utilize segmentation techniques such as **K-means** and **agglomerative clustering** to provide customer segment profiles that can be utilized by collaborative filtering to improve recommendations. We will evaluate the recommendation system using metrics such as **Precision**, **Recall**, **F1-Score**, **RMSE (Root Mean Square Error)**, and **MAE (Mean Absolute Error)**. We will also compare the performance of the hybrid system and those of the individual collaborative and clustering methods, utilizing data visualization techniques to illustrate results. We will also consider the impact of scalability and processing time on the recommendation systems’ usability and success.
+The goal of this project is to analyze current state and future trends in customer sales for the most popular grouping based on current sales/transactions using R programming. We will utilize segmentation techniques such as **K-means** and **agglomerative clustering** to provide user segment profiles that can be utilized by collaborative filtering to improve recommendations. We will also identify opportunities using descriptive and predictive analytics techniques and methods, including **regression** and **time-series** analysis, and visualizations using **ggplot2**. 
 
 ## **Summary of Processes**
 
@@ -37,6 +36,9 @@ The goal of this project is to develop a hybrid recommendation system that utili
 **5. Visualization and Reporting:**
 - Saved and documented the various visualizations created during the analysis.
 - Provided explanations and interpretations of key visual outputs, such as the elbow plot, cluster plot, and dendrogram.
+
+**6. Recommendations:**
+- TBD
 
 ## **Acknowledgments**
 
